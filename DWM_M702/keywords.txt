@@ -1,0 +1,19 @@
+# Syntax Colouring Map For M702 sensor
+
+# Data types (KEYWORD1)
+M702		KEYWORD1
+CO2		KEYWORD1
+CH2O		KEYWORD1
+TVOC		KEYWORD1
+PM25		KEYWORD1
+PM10		KEYWORD1
+temperatura	KEYWORD1
+humedad		KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+readSensor		KEYWORD2
+parseData		KEYWORD2
+calculateChecksum	KEYWORD2
+
+# Instances (KEYWORD2)

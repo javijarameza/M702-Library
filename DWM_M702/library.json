@@ -1,0 +1,23 @@
+{
+  "name": "M702",
+  "keywords": "M702,CO2,CH2O,TVOC,PM25,PM10,temperatura,humedad,UART",
+  "description": "Libreria del sensor M702 para ESP32-ArduinoIDE mediante comunicación UART",
+  "authors":
+  [
+    {
+      "name": "Javier Jara",
+      "email": "innotec.mds@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/javijarameza/M702-Library"
+  },
+  "version": "0.1.0",
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": "M702.h"
+}
